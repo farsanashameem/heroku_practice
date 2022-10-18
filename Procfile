@@ -1,1 +1,1 @@
-web: gunicorn HOSPTAL.wsgi --log-file -
+web: gunicorn HEROKU_PRACTICE.wsgi --log-file -
